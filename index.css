@@ -1,4 +1,13 @@
 /* This is an example CSS file, feel free to remove/edit it anytime */
+body {
+  color: black;
+}
+.uiContainer {
+  box-shadow: 10em 5em gold;
+  width: 100vh;
+  height: 100vh;
+  
+}
 .footer {
   position: absolute;
   bottom: 0;
