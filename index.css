@@ -6,7 +6,7 @@ body {
   box-shadow: 10em 5em gold;
   width: 100vh;
   height: 100vh;
-  
+  border-radius: 5px;
 }
 .footer {
   position: absolute;
